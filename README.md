@@ -35,5 +35,19 @@ The project uses NBA player statistics dataset for performance analysis and visu
 - Add advanced ML models
 - Deploy visualization dashboard
 
+## Screenshots
+
+### Correlation Heatmap
+![Heatmap](screenshots/correlation.png)
+
+### Data Visualization
+![Visualization](screenshots/distribution.png)
+
+### Histogram
+![Histogram](screenshots/histogram.png)
+
+### Confusion Matrix
+![Confusion Matrix](screenshots/confusion-matrix.png)
+
 ## Author
 Fiza Qamar
